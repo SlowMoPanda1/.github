@@ -21,12 +21,16 @@ Especialista en arquitectura de sistemas **FiveM**. Gestión y despliegue de inf
     <td width="50%" align="center">
       <img src="https://raw.githubusercontent.com/qbcore-framework/.github/main/profile/logo.png" width="60" alt="QB" /><br>
       <b>QBCore Architect</b><br>
-      <a href="https://github.com/SlowMo-QBCore"><b>[ ACCESS CORE ]</b></a>
+      <sub>Infraestructura y Scripts QB</sub><br><br>
+      <a href="https://github.com/orgs/SlowMo-QBCore/repositories?q=qb-&type=all&language=lua"><b>[ EXPLORAR SCRIPTS QB ]</b></a><br>
+      <a href="https://github.com/orgs/SlowMo-QBCore/repositories?q=core&type=all"><b>[ VER NÚCLEO ]</b></a>
     </td>
     <td width="50%" align="center">
       <img src="https://avatars.githubusercontent.com/u/51443428?s=200&v=4" width="60" alt="ESX" /><br>
       <b>ESX Legacy Master</b><br>
-      <a href="https://github.com/SlowMo-ESX"><b>[ ACCESS ARCHIVE ]</b></a>
+      <sub>Ecosistema ESX Legacy</sub><br><br>
+      <a href="https://github.com/orgs/SlowMo-ESX/repositories?q=esx_&type=all&language=lua"><b>[ EXPLORAR SCRIPTS ESX ]</b></a><br>
+      <a href="https://github.com/orgs/SlowMo-ESX/repositories?q=legacy&type=all"><b>[ VER LEGACY ]</b></a>
     </td>
   </tr>
 </table>
