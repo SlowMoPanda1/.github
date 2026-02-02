@@ -1,37 +1,73 @@
-<div align="center">
-<img src="https://r2.fivemanage.com/SVPyt7tsQi4njkYd2eKX6/images/logo_fit.png" align="center" height="100" width="300" />
-</div>  
-  
+# ⚡ System.Initialize("SlowMoPanda1")
 
-### <div align="center">Welcome to the Home of ESX!</div>  
-#### <div align="center">A non-profit organisation dedicated to providing free and open-source software for everyone.</div>
-#### <div align="center">⚡ Fun fact: ESX is used in 14,000+ servers and enjoyed by more than 60,000 players daily! </div>
-<br />
+<p align="center">
+  <img src="https://capsule-render.vercel.app/render?type=code&color=00f2ff&height=200&section=header&text=ARCH%20NEURAL%20LINK%20ESTABLISHED&fontSize=40&animation=fadeIn" alt="Header" />
+</p>
 
-## Directory
-- 🔭 [ESX: Legacy (Core)](https://github.com/esx-framework/esx_core)
-- 🔭 [ESX: Legacy (Addons)](https://github.com/esx-framework/esx-legacy-addons)
-- 🔭 [txAdmin Recipes](https://github.com/esx-framework/esx-recipes)
-- 🔭 [Documentation Source Code](https://github.com/esx-framework/esx-legacy-documenation)
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=SlowMoPanda1&label=ACCESS_LOG&color=00f2ff&style=flat-square" alt="Views" />
+  <img src="https://img.shields.io/badge/STATUS-ENCRYPTED-00f2ff?style=flat-square&logo=gitbook&logoColor=00f2ff" alt="Status" />
+  <img src="https://img.shields.io/badge/LOCATION-SPAIN-blue?style=flat-square" alt="Location" />
+</p>
 
-- ❓Need Support? Visit our [Discord](https://discord.esx-framework.org) or our [Documentation](https://docs.esx-legacy.com/en) page!
-<br/>
+---
 
-## Our Socials!
+## 🛰️ Perfil de Operador de Red
+Especialista en arquitectura de servidores **FiveM**. Gestión masiva de entornos basados en **QBCore** y **ESX Legacy**, con enfoque en optimización de recursos, seguridad de red y despliegue automatizado.
 
-<a href="https://github.com/esx-framework" target="_blank">
-<img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/esx_framework" target="_blank">
-<img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.youtube.com/@esxframework" target="_blank">
-<img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt=youtube style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/company/esx-framework" target="_blank">
-<img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://discord.esx-framework.org" target="_blank">
-<img src="https://img.shields.io/discord/513374574394474531?style=for-the-badge&logo=discord&logoColor=%23fb9b04&logoSize=auto&label=Discord" alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<br />
+### 🧬 Especializaciones (Framework Hubs)
+<table align="center">
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://raw.githubusercontent.com/qbcore-framework/.github/main/profile/logo.png" width="80" /><br>
+      <b>QBCore Architect</b><br>
+      <sub>Infraestructura masiva.</sub><br>
+      <a href="https://github.com/SlowMo-QBCore"><b>[ ACCEDER AL NÚCLEO ]</b></a>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://avatars.githubusercontent.com/u/51443428?s=200&v=4" width="80" /><br>
+      <b>ESX Legacy Master</b><br>
+      <sub>Sistemas modulares.</sub><br>
+      <a href="https://github.com/SlowMo-ESX"><b>[ ACCEDER AL ARCHIVO ]</b></a>
+    </td>
+  </tr>
+</table>
+
+---
+
+## 🛠️ Stack Tecnológico (Neural Skills)
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,mysql,cpp,python,linux,git,github,vscode,docker,powershell" />
+</p>
+
+### 📊 Análisis de Mainframe (Real-Time Stats)
+
+<p align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=SlowMoPanda1&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlowMoPanda1&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</p>
+
+<p align="center">
+  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SlowMoPanda1&theme=tokyonight&hide_border=true" />
+</p>
+
+---
+
+## ⛓️ Terminal de Proyectos Activos
+- 🚀 **Core Optimization**: Refactorización de scripts para reducción de MS en servidor.
+- 🧪 **Automated Mirroring**: Despliegue de herramientas CLI para sincronización de repositorios.
+- 🛡️ **Database Shield**: Optimización de queries SQL para entornos de 256+ jugadores.
+
+---
+
+## 📬 Establecer Conexión
+```json
+{
+  "protocol": "TCP/IP",
+  "status": "OPEN_FOR_COLLABORATIONS",
+  "contact": {
+    "github": "SlowMoPanda1",
+    "location": "VIRTUAL_VOID"
+  }
+}
