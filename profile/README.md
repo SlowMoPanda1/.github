@@ -53,4 +53,3 @@ Arquitecto especializado en la gestión y despliegue de ecosistemas **FiveM**. C
   Primary: GitHub_Console
   Secondary: Discord_Gateway
   Encryption: ACTIVE
-<p align="center"> <b>© 2026 SlowMoPanda1 - Desarrollo e Infraestructura</b> </p>
