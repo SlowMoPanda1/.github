@@ -1,90 +1,55 @@
-# <p align="center">── ⚡ DEPLOYMENT CORE: SLOWMOPANDA1 ⚡ ──</p>
+# <p align="center">─── ⚡ SLOWMOPANDA1 | SYSTEM ARCHITECT ⚡ ───</p>
 
 <p align="center">
-  <img src="https://capsule-render.vercel.app/render?type=rect&color=00f2ff&height=220&section=header&text=SlowMoPanda1&fontSize=80&animation=twinkling&desc=%E2%96%A0%20FIVEM%20INFRASTRUCTURE%20ARCHITECT%20%E2%96%A0&descSize=20&descAlignY=70" alt="Header" />
+  <img src="https://img.shields.io/badge/FIVEM-INFRASTRUCTURE_EXPERT-00f2ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-blueviolet?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-green?style=for-the-badge&logo=statuspage&logoColor=white" />
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-00f2ff?style=for-the-badge&logo=bitwarden&logoColor=black" />
-  <img src="https://img.shields.io/badge/SISTEMA-LINUX_KRTITIK-blueviolet?style=for-the-badge&logo=linux&logoColor=white" />
-  <img src="https://img.shields.io/badge/LOG-ACTIVE-green?style=for-the-badge&logo=statuspage&logoColor=white" />
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=SlowMoPanda1&label=ACCESS_LOG&color=00f2ff&style=flat-square" />
-</p>
-
----
-
-## 🛰️ Misión de Operaciones (Neural Briefing)
-Especialista en **DevOps para FiveM**. Mi trabajo consiste en la orquestación de recursos distribuidos, garantizando que el código de **QBCore** y **ESX** esté siempre disponible, optimizado y listo para despliegues de alta carga. 
-
-### 🧬 Hubs de Gestión (Managed Organizations)
-<table align="center">
-  <tr>
-    <td align="center">
-      <a href="https://github.com/SlowMo-QBCore">
-        <img src="https://img.shields.io/badge/QBCore_Mirror-00f2ff?style=for-the-badge&logo=github&logoColor=black" /><br>
-        <sub>Acceso a Nodo Alfa</sub>
-      </a>
-    </td>
-    <td align="center">
-      <a href="https://github.com/SlowMo-ESX">
-        <img src="https://img.shields.io/badge/ESX_Vault-blueviolet?style=for-the-badge&logo=github&logoColor=white" /><br>
-        <sub>Acceso a Nodo Beta</sub>
-      </a>
-    </td>
-  </tr>
-</table>
-
----
-
-## 🛠️ Stack Tecnológico (Hardware & Software)
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,mysql,cpp,python,linux,bash,docker,nginx,git,github,vscode,powershell,discord,php,mysql,ubuntu" alt="Tech Stack" />
+  <img src="https://img.shields.io/badge/OS-LINUX_UBUNTU-E9433F?style=flat-square&logo=ubuntu&logoColor=white" />
+  <img src="https://img.shields.io/badge/DATABASE-MYSQL_OPTIMIZED-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/ARCH-QBCORE_%26_ESX-00f2ff?style=flat-square&logo=gitbook&logoColor=white" />
 </p>
 
 ---
 
-## 📊 Telemetría del Mainframe (Real-Time Stats)
+## 🛰️ Misión de Operaciones
+Arquitecto especializado en la gestión de ecosistemas **FiveM**. Control total sobre la distribución y optimización de recursos en redes de alta carga. Mi infraestructura garantiza la redundancia y disponibilidad de los frameworks más avanzados del sector.
 
-<table align="center" border="0">
-  <tr>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SlowMoPanda1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="General Stats" />
-    </td>
-    <td>
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SlowMoPanda1&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
-    </td>
-  </tr>
-</table>
+### 🧬 Organizaciones bajo Gestión
+* 🔵 **[SlowMo-QBCore](https://github.com/SlowMo-QBCore)**: Nodo principal de archivos QBCore.
+* 🟣 **[SlowMo-ESX](https://github.com/SlowMo-ESX)**: Repositorio central de legado ESX.
 
+---
+
+## 🛠️ Neural Stack (Tecnologías Verificadas)
 <p align="center">
-  <img width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=SlowMoPanda1&theme=tokyonight&hide_border=true" alt="Current Streak" />
-</p>
-
-<p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=SlowMoPanda1&theme=tokyonight&hide_border=true&area=true" alt="Activity Wave" />
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,mysql,cpp,python,linux,bash,docker,nginx,git,github,vscode,powershell,discord,php" alt="Tech Stack" />
 </p>
 
 ---
 
-## 🏆 Registros de Reconocimiento
+## 📊 Telemetría de Usuario
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=SlowMoPanda1&theme=tokyonight&no-bg=true&column=4" alt="Achievement Trophies" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SlowMoPanda1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SlowMoPanda1&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
 </p>
 
 ---
 
 ## ⛓️ Protocolos de Conexión
 ```yaml
-[SYSTEM_INFO]
-  User: SlowMoPanda1
-  Clearance: Level_5_Operator
-  Status: 🟢 Listening_for_Requests
-  Current_Load: [||||||||||] 100% Optimized
-  
-[CONTACT]
-  Terminal: GitHub_CLI / Discord
-  Location: Spain_Node_01
-  Encryption: SHA-256_ACTIVE
+[SYSTEM_STATUS]
+  Operator: SlowMoPanda1
+  Clearance: Alpha_Level
+  Environment: Production_Ready
+  Location: Spain_Node
+
+[CONTACT_CHANNELS]
+  Primary: GitHub_CLI
+  Secondary: Discord_Gateway
+  Encryption: ACTIVE
