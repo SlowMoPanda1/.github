@@ -14,25 +14,25 @@
 
 ---
 
-## 🛰️ Misión de Operaciones
-Arquitecto especializado en la gestión de ecosistemas **FiveM**. Control total sobre la distribución y optimización de recursos en redes de alta carga. Mi infraestructura garantiza la redundancia y disponibilidad de los frameworks más avanzados del sector.
+### 🛰️ Operaciones de Sistemas
+Arquitecto especializado en la gestión y despliegue de ecosistemas **FiveM**. Control centralizado sobre la distribución de recursos en redes de alta carga. Mi infraestructura garantiza la redundancia y optimización de los frameworks más avanzados del sector.
 
 ### 🧬 Organizaciones bajo Gestión
-* 🔵 **[SlowMo-QBCore](https://github.com/SlowMo-QBCore)**: Nodo principal de archivos QBCore.
-* 🟣 **[SlowMo-ESX](https://github.com/SlowMo-ESX)**: Repositorio central de legado ESX.
+* 🔵 **[SlowMo-QBCore](https://github.com/SlowMo-QBCore)**: Nodo principal de archivos y recursos QBCore.
+* 🟣 **[SlowMo-ESX](https://github.com/SlowMo-ESX)**: Repositorio central y archivo de legado ESX.
 
 ---
 
-## 🛠️ Neural Stack (Tecnologías Verificadas)
+### 🛠️ Neural Stack (Tecnologías Verificadas)
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,ts,mysql,cpp,python,linux,bash,docker,nginx,git,github,vscode,powershell,discord,php" alt="Tech Stack" />
 </p>
 
 ---
 
-## 📊 Telemetría de Usuario
+### 📊 Telemetría del Mainframe
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=SlowMoPanda1&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=SlowMoPanda1&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" />
 </p>
 
 <p align="center">
@@ -41,15 +41,15 @@ Arquitecto especializado en la gestión de ecosistemas **FiveM**. Control total 
 
 ---
 
-## ⛓️ Protocolos de Conexión
+### ⛓️ Protocolos de Conexión
 ```yaml
 [SYSTEM_STATUS]
   Operator: SlowMoPanda1
   Clearance: Alpha_Level
   Environment: Production_Ready
-  Location: Spain_Node
+  Status: 🟢 ONLINE
 
 [CONTACT_CHANNELS]
-  Primary: GitHub_CLI
+  Primary: GitHub_Console
   Secondary: Discord_Gateway
   Encryption: ACTIVE
