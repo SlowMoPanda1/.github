@@ -41,6 +41,21 @@ Arquitecto especializado en la gestión y despliegue de ecosistemas **FiveM**. C
 
 ---
 
+### 🌐 External Gateways (Social)
+<p align="center">
+  <a href="https://discord.com/users/TU_ID_DE_DISCORD_AQUI">
+    <img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />
+  </a>
+  <a href="https://youtube.com/@TU_USUARIO_AQUI">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+  <a href="https://twitter.com/TU_USUARIO_AQUI">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+  </a>
+</p>
+
+---
+
 ### ⛓️ Protocolos de Conexión
 ```yaml
 [SYSTEM_STATUS]
