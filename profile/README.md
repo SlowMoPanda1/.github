@@ -49,19 +49,15 @@ Arquitecto especializado en la gestión y despliegue de ecosistemas **FiveM**. C
   <a href="https://youtube.com/@TU_USUARIO_AQUI">
     <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
   </a>
-  <a href="https://twitter.com/TU_USUARIO_AQUI">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
-  </a>
 </p>
 
 ---
 
-### ⛓️ Protocolos de Conexión
+### ⛓️ Terminal de Protocolos & Logs
 ```yaml
-[SYSTEM_LOG_ANALYSIS]
+[SYSTEM_ANALYSIS]
   Uptime: 764:12:05:44
   Global_Traffic: 1.2 GB/s
-  Active_Nodes: 12 (Virtual_Subnet_Alpha)
   Encryption: AES-256-GCM [ACTIVE]
   
 [RESOURCE_MONITOR]
@@ -73,9 +69,17 @@ Arquitecto especializado en la gestión y despliegue de ecosistemas **FiveM**. C
   > SYNCING: SlowMo-QBCore_Cluster... [DONE]
   > CACHING: ESX_Legacy_Vault... [ACTIVE]
   > SECURITY: SQL_Shield_v4.2... [RUNNING]
-  > TUNNEL: Secure_Gate_01... [ESTABLISHED]
+  > TUNNEL: FXServer_Gateway_30120... [ESTABLISHED]
+
+[NETWORK_SECURITY]
+  Firewall: Layer_7_Active
+  Intrusion_Attempts: 0 (Last 24h)
+  Blocked_Nodes: 
+    - 192.168.0.XX [ACCESS_DENIED]
+    - 45.122.XX.XX [ACCESS_DENIED]
+    - 104.28.XX.XX [ACCESS_DENIED]
 
 [TERMINAL_OUTPUT]
-  2026-02-02 22:15:01 [INFO] Port 30120 (FXServer) Optimized.
-  2026-02-02 22:15:02 [WARN] High traffic detected in Node_Beta.
-  2026-02-02 22:15:05 [INFO] Automated backup to SlowMo-Archives completed.
+  2026-02-02 22:15:01 [INFO] Database mirroring completed.
+  2026-02-02 22:15:02 [WARN] Port 30120: High traffic in Node_Beta.
+  2026-02-02 22:15:05 [INFO] Manual Override: SlowMoPanda1 logged in.
