@@ -1,39 +1,31 @@
-# ESX Framework Contributor License Agreement (CLA)
+# Acuerdo de Propiedad Intelectual y Confidencialidad - Comunidad Nexo
 
-Thank you for contributing to the ESX Framework project!
-To ensure that the ESX Framework team can enforce licensing and maintain the integrity of the project, we require that all contributors agree to this CLA.
+El presente documento establece los términos de propiedad y uso de la infraestructura y código fuente bajo el ecosistema de **Comunidad Nexo**. Todo el material, configuraciones y desarrollos son propiedad exclusiva del Arquitecto del Proyecto.
 
-## 1. Definitions
+## 1. Definiciones
 
-- **Project**: Any ESX Framework repository under the ESX Framework GitHub organization and any directly related codebase to which this CLA applies.
-- **Contribution**: Any code, documentation, or other material you submit or have submitted to the project.
-- **Organization / Enforcers**: The ESX Framework management team or any person assigned by the management team to enforce the Project's license.
+- **Proyecto**: Todo el ecosistema de servidores, portales web, bases de datos y repositorios de código bajo **Comunidad Nexo**.
+- **Activos**: Cualquier archivo, script, configuración de servidor (Minecraft, Ark, etc.), documentación o material desarrollado o gestionado dentro del entorno del Proyecto.
+- **Titular**: El Arquitecto y Administrador principal de **Comunidad Nexo**.
 
-## 2. Grant of License Enforcement Rights
+## 2. Protección de la Propiedad Intelectual
 
-By submitting a Contribution to the Project, you agree that the Organization is authorized to:
+Todo el contenido, lógica de programación, configuraciones de red y arquitecturas de servidor son propiedad intelectual exclusiva del **Titular**.
 
-1. Enforce the Project's license for your Contributions, including taking any reasonable and legally recognized actions necessary to address license violations. This may include, but is not limited to, issuing compliance requests, sending DMCA notices, and pursuing legal actions when required.
-2. Act on your behalf for the limited purpose of license enforcement, solely in relation to your Contributions and only to the extent necessary to protect the Project's licensing terms.
+1. **Uso Restringido**: Queda prohibida la reproducción, distribución, ingeniería inversa o uso no autorizado de cualquier Activo del Proyecto.
+2. **Confidencialidad**: Cualquier persona con acceso a los sistemas del Proyecto se compromete a mantener la más estricta confidencialidad sobre la arquitectura, configuraciones y datos del sistema.
+3. **Derechos de Gestión**: El **Titular** se reserva el derecho total de gestionar, modificar, eliminar o proteger sus Activos mediante cualquier acción legal o técnica necesaria.
 
-**Note:** This CLA does not transfer copyright ownership. You retain full copyright of your Contributions.
+## 3. Irrevocabilidad
 
-## 3. Irrevocability of Granted Rights
+La propiedad de los Activos es inalienable. Cualquier contribución o acceso a la infraestructura no transfiere ningún derecho de propiedad, copyright o licencia de uso al colaborador.
 
-Once you have accepted this CLA, the rights granted to the Organization under this agreement apply to all of your Contributions, past and future. These rights are permanent for any Contribution that has been merged into the Project and cannot be withdrawn.
+## 4. Garantía de Privacidad
 
-## 4. Representation and Warranty
+Este Proyecto opera bajo un modelo de **Infraestructura Privada**. El acceso a los recursos es un privilegio otorgado por el **Titular** y no constituye una licencia pública.
 
-You represent that: 
+## 5. Aceptación
 
-1. You have the right to submit your Contributions under this CLA.
-2. Your Contributions do not violate the intellectual property rights of any third party.
+El acceso a cualquier servidor, repositorio o sistema de **Comunidad Nexo** implica la aceptación total de estos términos. El incumplimiento de cualquier cláusula resultará en la revocación inmediata de todos los privilegios y el inicio de acciones para proteger la integridad del Proyecto.
 
-## 5. Acceptance
-
-To accept this CLA, you must sign it via [CLA Assistant](https://cla-assistant.io/esx-framework/esx_core). 
-Once signed, the CLA applies to all past and future Contributions automatically.
-
-By doing so, you are granting the Organization the rights described above.
-
-**Thank you for contributing to ESX Framework!**
+**Comunidad Nexo: Propiedad Privada y Gestión de Infraestructura de Alto Rendimiento.**
