@@ -1,11 +1,11 @@
 <h1 align="center">SLOWMOPANDA1</h1>
 <p align="center">
-  <b>Infrastructure Architect & FiveM Systems Engineer</b><br>
+  <b>Infrastructure Architect & Systems Engineer</b><br>
   <i>"Optimizando el rendimiento, securizando la red, escalando el futuro."</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/FIVEM-INFRASTRUCTURE_EXPERT-00f2ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/PLATFORM-ARCHITECT-00f2ff?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-blueviolet?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-green?style=for-the-badge&logo=statuspage&logoColor=white" />
 </p>
@@ -13,11 +13,13 @@
 ---
 
 ### 🧬 Acerca de mí
-Arquitecto de sistemas especializado en el despliegue y gestión de ecosistemas **FiveM**. Mi enfoque se centra en la optimización de recursos, alta disponibilidad y seguridad de redes bajo cargas de trabajo críticas. Apasionado por la automatización en entornos **Linux** y el ajuste fino de bases de datos.
+Arquitecto de sistemas especializado en el diseño, despliegue y gestión de infraestructuras de alta disponibilidad. Mi enfoque se centra en la optimización de recursos, escalabilidad de servicios web y la seguridad integral de redes. 
+**Lead Architect en [Comunidad Nexo](https://nexo.tplinkdns.com).**
 
-### 🌐 Organizaciones bajo Gestión
-* 🔵 **[SlowMo-QBCore](https://github.com/SlowMo-QBCore)**: Nodo centralizado para recursos QBCore.
-* 🟣 **[SlowMo-ESX](https://github.com/SlowMo-ESX)**: Repositorio legado y optimizado para ESX.
+### 🌐 Ecosistema Nexo
+* 🌐 **[Web Oficial](https://nexo.tplinkdns.com)**: Portal centralizado de gestión y servicios.
+* 💬 **[Discord de la Comunidad](https://discord.gg/TU_ENLACE)**: Hub de interacción y soporte en tiempo real.
+* 🎮 **Servidores de Juego**: Gestión de clusters optimizados para baja latencia y alta concurrencia.
 
 ---
 
@@ -30,9 +32,9 @@ Arquitecto de sistemas especializado en el despliegue y gestión de ecosistemas 
 | Área | Tecnologías / Habilidades |
 | :--- | :--- |
 | **Networking** | Nginx, Layer 7 Firewall, VPN/Tunneling |
-| **Database** | MySQL/MariaDB Tuning, Data Mirroring |
+| **Web Infrastructure** | PHP, Hosting, Balanceo de Carga |
 | **Automation** | Bash Scripting, Python, Docker |
-| **Frameworks** | QBCore, ESX Legacy, FXServer |
+| **Database** | MySQL/MariaDB Tuning, Data Mirroring |
 
 ---
 
@@ -47,16 +49,17 @@ Arquitecto de sistemas especializado en el despliegue y gestión de ecosistemas 
 ### ⛓️ Terminal de Protocolos & Logs
 ```bash
 [SYSTEM_ANALYSIS]
-  Uptime: 764d 12h 05m 44s
+  Identity: SLOWMOPANDA1
+  Project: NEXO_CORE_INTEGRATION
   Encryption: AES-256-GCM [ACTIVE]
-  Global_Traffic: 1.2 GB/s
 
-[LIVE_PROCESSES]
-  > SYNCING: SlowMo-QBCore_Cluster... [DONE]
-  > CACHING: ESX_Legacy_Vault... [ACTIVE]
+[LIVE_SERVICES]
+  > WEB_PORTAL: nexo.tplinkdns.com... [STABLE]
+  > DISCORD_SYNC: Real-Time_Integration... [ACTIVE]
+  > GAME_SERVERS: Cluster_Performance... [OPTIMIZED]
   > SECURITY: SQL_Shield_v4.2... [RUNNING]
-  > TUNNEL: FXServer_Gateway_30120... [ESTABLISHED]
 
 [NETWORK_SECURITY]
+  Status: SECURED
   Firewall: Layer_7_Active
   Intrusion_Attempts: 0 (Last 24h)
