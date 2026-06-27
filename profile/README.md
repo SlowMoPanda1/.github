@@ -1,48 +1,57 @@
-<div align="center">
-  <h1>SLOWMOPANDA1</h1>
-  <p><i>Infrastructure Architect & Systems Engineer | Lead Architect @ Comunidad Nexo</i></p>
-  
-  <p>
-    <img src="https://img.shields.io/badge/STATUS-OPERATIONAL-00ff00?style=flat-square&logo=linux&logoColor=white" />
-    <img src="https://img.shields.io/badge/SECURITY-AES_256-blueviolet?style=flat-square&logo=securityscorecard&logoColor=white" />
-    <img src="https://img.shields.io/badge/INFRASTRUCTURE-PRIVATE-red?style=flat-square&logo=git&logoColor=white" />
-  </p>
-</div>
-
----
-
-### 🧬 // SYSTEM_PROFILE
-Arquitecto de sistemas especializado en el despliegue de infraestructuras de misión crítica. Mi enfoque se centra en la orquestación de servicios bajo una arquitectura **Zero-Trust**, garantizando máxima disponibilidad y rendimiento en entornos de juego multijugador y servicios web privados.
-
-### 🌐 // OPERATIONAL_ECOSYSTEM
-| Nivel | Servicios Gestionados |
-| :--- | :--- |
-| **Game Clusters** | Gestión escalable de servidores (Ark, Minecraft, Rust, 7Days, Valheim, V-Rising) |
-| **Networking** | Implementación de Firewall L7, Enrutamiento optimizado y Túneles seguros |
-| **Web Infrastructure** | Portal centralizado Nexo con balanceo de carga y alta disponibilidad |
-| **Automation** | Pipelines CI/CD, Scripting Bash/Python, Docker & Contenedores |
-
-### 🛠️ // NEURAL_STACK
+<h1 align="center">SLOWMOPANDA1</h1>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,mysql,cpp,python,linux,bash,docker,nginx,git,github,vscode,powershell,discord,php" alt="Stack" />
+  <b>Infrastructure Architect & Systems Engineer</b><br>
+  <i>"Optimizando el rendimiento, securizando la red, escalando el futuro."</i>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/PLATFORM-ARCHITECT-00f2ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-blueviolet?style=for-the-badge&logo=fortinet&logoColor=white" />
+  <img src="https://img.shields.io/badge/GAMING-INFRASTRUCTURE-red?style=for-the-badge&logo=steam&logoColor=white" />
 </p>
 
 ---
 
-### ⛓️ // LIVE_TELEMETRY_TERMINAL
+### 🧬 Acerca de mí
+Arquitecto de sistemas especializado en el diseño, despliegue y gestión de infraestructuras de alta disponibilidad. Experto en la optimización de entornos complejos, desde portales web hasta clusters de servidores dedicados de alto rendimiento.
+**Lead Architect en Comunidad Nexo.**
+
+### 🌐 Ecosistema Nexo & Game Hosting
+* 🌐 **Portal Web:** Gestión centralizada de servicios.
+* 🎮 **Game Server Clusters:** Administración de servidores dedicados (Minecraft, Ark: Survival Evolved, Rust, Valheim y más) optimizados para baja latencia.
+* 💬 **Hub de Comunicación:** Servidor privado de coordinación técnica.
+
+---
+
+### 🛠️ Neural Stack
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=lua,js,ts,mysql,cpp,python,linux,bash,docker,nginx,git,github,vscode,powershell,discord,php" alt="Tech Stack" />
+</p>
+
+### ⚙️ Áreas de Especialización
+| Área | Tecnologías / Habilidades |
+| :--- | :--- |
+| **Game Hosting** | Gestión de Clusters (Ark, Minecraft), Optimización de Servidores Dedicados |
+| **Networking** | Nginx, Layer 7 Firewall, VPN/Tunneling |
+| **Automation** | Bash Scripting, Python, Docker, Despliegue Automatizado |
+| **Database** | MySQL/MariaDB Tuning, Data Mirroring |
+
+---
+
+### ⛓️ Terminal de Protocolos & Logs
 ```bash
-> INITIALIZING_NEXO_CORE...
-> IDENTITY: SLOWMOPANDA1
-> ACCESS_LEVEL: ROOT_ADMINISTRATOR
+[SYSTEM_ANALYSIS]
+  Identity: SLOWMOPANDA1
+  Project: NEXO_CORE_INTEGRATION
 
-[CORE_ASSETS_MONITOR]
-  ├─ WEB_PORTAL_CORE:      [STABLE] █ █ █ █ █ 100%
-  ├─ CLUSTER_ARK_EVOLVED:  [ACTIVE] █ █ █ █ ░ 92%
-  ├─ CLUSTER_MINECRAFT:    [ACTIVE] █ █ █ █ █ 100%
-  ├─ MULTI_HOST_SERVICES:  [ONLINE] █ █ █ ░ ░ 75%
-  └─ DATA_MIRROR_STATUS:   [SYNCED] █ █ █ █ █ 100%
+[ACTIVE_GAME_CLUSTERS]
+  > ARK_EVOLVED_CLUSTER: Performance_Sync... [ACTIVE]
+  > MINECRAFT_DEDICATED: High_Concurrency... [STABLE]
+  > MULTI_SERVER_ENV: [7DaysToDie, Rust, Valheim, V-Rising, etc]... [OPERATIONAL]
 
-[NETWORK_SECURITY_REPORT]
-  FIREWALL: LAYER_7_ENFORCED
-  ENCRYPTION: AES-256-GCM | STATUS: SECURED
-  INTRUSION_ATTEMPTS: 0 (BLACKLIST_ACTIVE)
+[LIVE_SERVICES]
+  > WEB_PORTAL: Internal_Access_Only... [STABLE]
+  > SECURITY: SQL_Shield_v4.2... [RUNNING]
+
+[NETWORK_SECURITY]
+  Status: SECURED | Firewall: Layer_7_Active
