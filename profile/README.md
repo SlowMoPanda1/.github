@@ -8,50 +8,53 @@
   <img src="https://img.shields.io/badge/PLATFORM-ARCHITECT-00f2ff?style=for-the-badge&logo=github&logoColor=white" />
   <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-blueviolet?style=for-the-badge&logo=fortinet&logoColor=white" />
   <img src="https://img.shields.io/badge/GAMING-INFRASTRUCTURE-red?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/UPTIME-99.9%25-success?style=for-the-badge&logo=statuspage&logoColor=white" />
 </p>
 
 ---
 
 ### 🧬 Acerca de mí
-Arquitecto de sistemas especializado en el diseño, despliegue y gestión de infraestructuras de alta disponibilidad. Experto en la optimización de entornos complejos, desde portales web hasta clusters de servidores dedicados de alto rendimiento.
+Arquitecto de sistemas e ingéniero de infraestructura especializado en el diseño, despliegue y gestión de entornos de alta disponibilidad. Apasionado por la optimización de sistemas complejos, desde portales web corporativos hasta redes de clusters de servidores dedicados enfocados en gaming de ultra baja latencia.  
 **Lead Architect en Comunidad Nexo.**
 
 ### 🌐 Ecosistema Nexo & Game Hosting
-* 🌐 **Portal Web:** Gestión centralizada de servicios.
-* 🎮 **Game Server Clusters:** Administración de servidores dedicados (Minecraft, Ark: Survival Evolved, Rust, Valheim y más) optimizados para baja latencia.
-* 💬 **Hub de Comunicación:** Servidor privado de coordinación técnica.
+* 🌐 **Portal Web Centralizado:** Gestión automatizada de servicios y paneles de control.
+* 🎮 **Game Server Clusters:** Administración avanzada de servidores dedicados multisector (Minecraft, Ark, Rust, Valheim, V-Rising, Euro Truck Simulator 2, etc.) afinados a nivel de kernel y red.
+* 💬 **Hub de Coordinación Técnica:** Infraestructura de comunicación interna y monitoreo en tiempo real.
 
 ---
 
-### 🛠️ Neural Stack
+### 🛠️ Tech Stack & Neural Stack
 <p align="center">
   <img src="https://skillicons.dev/icons?i=lua,js,ts,mysql,cpp,python,linux,bash,docker,nginx,git,github,vscode,powershell,discord,php" alt="Tech Stack" />
 </p>
 
 ### ⚙️ Áreas de Especialización
-| Área | Tecnologías / Habilidades |
+| Área | Tecnologías / Habilidades Principales |
 | :--- | :--- |
-| **Game Hosting** | Gestión de Clusters (Ark, Minecraft), Optimización de Servidores Dedicados |
-| **Networking** | Nginx, Layer 7 Firewall, VPN/Tunneling |
-| **Automation** | Bash Scripting, Python, Docker, Despliegue Automatizado |
-| **Database** | MySQL/MariaDB Tuning, Data Mirroring |
+| **Game Hosting & Scaling** | Gestión de Clusters (Ark, Minecraft, Rust), Tuning de rendimiento, Reducción de Latencia |
+| **Networking & Security** | Nginx, Layer 7 Firewalls, VPN / Tunneling, Hardening de Servidores |
+| **Automation & DevOps** | Bash Scripting, Python, Contenerización con Docker, Despliegue CI/CD |
+| **Database Architecture** | MySQL / MariaDB Tuning, Replicación y Data Mirroring |
 
 ---
 
-### ⛓️ Terminal de Protocolos & Logs
+### ⛓️ Terminal de Protocolos & Logs del Sistema
 ```bash
 [SYSTEM_ANALYSIS]
   Identity: SLOWMOPANDA1
   Project: NEXO_CORE_INTEGRATION
+  Environment: PRODUCTION_STABLE
 
 [ACTIVE_GAME_CLUSTERS]
   > ARK_EVOLVED_CLUSTER: Performance_Sync... [ACTIVE]
   > MINECRAFT_DEDICATED: High_Concurrency... [STABLE]
-  > MULTI_SERVER_ENV: [7DaysToDie, Rust, Valheim, V-Rising, etc]... [OPERATIONAL]
+  > ETS2_VTC_SYSTEM: Telemetry_Link... [ONLINE]
+  > MULTI_SERVER_ENV: [7DaysToDie, Rust, Valheim, V-Rising]... [OPERATIONAL]
 
 [LIVE_SERVICES]
-  > WEB_PORTAL: Internal_Access_Only... [STABLE]
-  > SECURITY: SQL_Shield_v4.2... [RUNNING]
+  > WEB_PORTAL: Global_Access_Secured... [STABLE]
+  > SECURITY_SHIELD: SQL_Shield_v4.2... [RUNNING]
 
 [NETWORK_SECURITY]
-  Status: SECURED | Firewall: Layer_7_Active
+  Status: SECURED | Firewall: Layer_7_Active | DDoS_Protection: Enabled
