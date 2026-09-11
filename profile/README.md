@@ -1,60 +1,60 @@
 <h1 align="center">SLOWMOPANDA1</h1>
 <p align="center">
-  <b>Infrastructure Architect & Systems Engineer</b><br>
-  <i>"Optimizando el rendimiento, securizando la red, escalando el futuro."</i>
+  <b>Programming & SysAdmin Enthusiast</b><br>
+  <i>"Apasionado de la tecnología, creando servidores y compartiendo buenos momentos."</i>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/PLATFORM-ARCHITECT-00f2ff?style=for-the-badge&logo=github&logoColor=white" />
-  <img src="https://img.shields.io/badge/SECURITY-ENCRYPTED-blueviolet?style=for-the-badge&logo=fortinet&logoColor=white" />
-  <img src="https://img.shields.io/badge/GAMING-INFRASTRUCTURE-red?style=for-the-badge&logo=steam&logoColor=white" />
-  <img src="https://img.shields.io/badge/UPTIME-99.9%25-success?style=for-the-badge&logo=statuspage&logoColor=white" />
+  <img src="https://img.shields.io/badge/TECH-ENTHUSIAST-00f2ff?style=for-the-badge&logo=github&logoColor=white" />
+  <img src="https://img.shields.io/badge/COMMUNITY-NEXO-blueviolet?style=for-the-badge&logo=discord&logoColor=white" />
+  <img src="https://img.shields.io/badge/GAMING-COMMUNITY-red?style=for-the-badge&logo=steam&logoColor=white" />
+  <img src="https://img.shields.io/badge/LEARNING-ALWAYS-success?style=for-the-badge&logo=visualstudiocode&logoColor=white" />
 </p>
 
 ---
 
-### 🧬 Acerca de mí
-Arquitecto de sistemas e ingéniero de infraestructura especializado en el diseño, despliegue y gestión de entornos de alta disponibilidad. Apasionado por la optimización de sistemas complejos, desde portales web corporativos hasta redes de clusters de servidores dedicados enfocados en gaming de ultra baja latencia.  
-**Lead Architect en Comunidad Nexo.**
+### 💻 Sobre mí
+Apasionado de la informática, la programación y la tecnología en general. Me encanta trastear con el código, montar y administrar mi propia infraestructura (páginas web, servidores dedicados y servicios en la nube) y aprender nuevas herramientas sobre la marcha. 
 
-### 🌐 Ecosistema Nexo & Game Hosting
-* 🌐 **Portal Web Centralizado:** Gestión automatizada de servicios y paneles de control.
-* 🎮 **Game Server Clusters:** Administración avanzada de servidores dedicados multisector (Minecraft, Ark, Rust, Valheim, V-Rising, Euro Truck Simulator 2, etc.) afinados a nivel de kernel y red.
-* 💬 **Hub de Coordinación Técnica:** Infraestructura de comunicación interna y monitoreo en tiempo real.
+Además de la parte técnica, **dispongo de una comunidad y un grupo de amigos** donde nos juntamos para charlar, pasar el rato y jugar a todo lo que vaya surgiendo.
 
 ---
 
-### 🛠️ Tech Stack & Neural Stack
+### 🌐 Ecosistema Nexo & Proyectos
+* 🌐 **Infraestructura Web:** Creación y mantenimiento de páginas web y paneles de control.
+* 🎮 **Servidores de Juegos:** Configuración y hosting de servidores para la comunidad (Minecraft, Ark, Rust, Valheim, V-Rising, Euro Truck Simulator 2, etc.).
+* 💬 **Punto de Encuentro:** Canal de comunicación y Discord para la comunidad, monitoreo de servidores y espacio para charlar.
+
+---
+
+### 🛠️ Lenguajes & Herramientas
+Desarrollo y gestiono proyectos utilizando diferentes lenguajes y plataformas, teniendo como entorno principal **Visual Studio Code**:
+
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=lua,js,ts,mysql,cpp,python,linux,bash,docker,nginx,git,github,vscode,powershell,discord,php" alt="Tech Stack" />
+  <img src="https://skillicons.dev/icons?i=vscode,lua,js,ts,php,cpp,python,bash,linux,docker,nginx,mysql,git,github,powershell,discord" alt="Tech Stack" />
 </p>
 
-### ⚙️ Áreas de Especialización
-| Área | Tecnologías / Habilidades Principales |
+### ⚙️ Hobbies & Áreas de Interés
+| Área | Lo que me gusta hacer |
 | :--- | :--- |
-| **Game Hosting & Scaling** | Gestión de Clusters (Ark, Minecraft, Rust), Tuning de rendimiento, Reducción de Latencia |
-| **Networking & Security** | Nginx, Layer 7 Firewalls, VPN / Tunneling, Hardening de Servidores |
-| **Automation & DevOps** | Bash Scripting, Python, Contenerización con Docker, Despliegue CI/CD |
-| **Database Architecture** | MySQL / MariaDB Tuning, Replicación y Data Mirroring |
+| **Programación** | Desarrollo en múltiples lenguajes, scripts de automatización y lógica de aplicaciones. |
+| **Infraestructura & Servidores** | Despliegue de sitios web, gestión de servidores Linux, Docker y Nginx. |
+| **Game Hosting** | Montaje y optimización de servidores dedicados para jugar con la comunidad. |
+| **Base de Datos** | Modelado y gestión con MySQL / MariaDB para conectar servicios y webs. |
 
 ---
 
-### ⛓️ Terminal de Protocolos & Logs del Sistema
+### 🖥️ Estado del Sistema & Comunidad
 ```bash
-[SYSTEM_ANALYSIS]
-  Identity: SLOWMOPANDA1
-  Project: NEXO_CORE_INTEGRATION
-  Environment: PRODUCTION_STABLE
+[SYSTEM_INFO]
+  User: SLOWMOPANDA1
+  Main_IDE: Visual Studio Code
+  Focus: Web_Dev | SysAdmin | Coding
 
-[ACTIVE_GAME_CLUSTERS]
-  > ARK_EVOLVED_CLUSTER: Performance_Sync... [ACTIVE]
-  > MINECRAFT_DEDICATED: High_Concurrency... [STABLE]
-  > ETS2_VTC_SYSTEM: Telemetry_Link... [ONLINE]
-  > MULTI_SERVER_ENV: [7DaysToDie, Rust, Valheim, V-Rising]... [OPERATIONAL]
+[COMUNIDAD_Y_JUEGOS]
+  > DISCORD_HUB: Charlas & Gaming... [ONLINE]
+  > GAME_SERVERS: [Minecraft, Ark, Rust, Valheim, V-Rising, ETS2]... [ACTIVOS]
+  > WEB_PROJECTS: Infraestructura propia... [EN PROCESO]
 
-[LIVE_SERVICES]
-  > WEB_PORTAL: Global_Access_Secured... [STABLE]
-  > SECURITY_SHIELD: SQL_Shield_v4.2... [RUNNING]
-
-[NETWORK_SECURITY]
-  Status: SECURED | Firewall: Layer_7_Active | DDoS_Protection: Enabled
+[STATUS]
+  Status: Aprendiendo y disfrutando del código día a día.
