@@ -14,20 +14,21 @@
 ---
 
 ### 💻 Sobre mí
-¡Hola! Soy un apasionado de la **informática, la programación y el desarrollo de sistemas**. Me encanta investigar cómo funcionan las cosas por dentro, construir mi propia infraestructura y experimentar con múltiples tecnologías y lenguajes de programación.
+¡Hola! Soy un apasionado de la **informática, la programación y el desarrollo de sistemas**. Me encanta investigar cómo funcionan las cosas por dentro, construir mi propia infraestructura de alto rendimiento y experimentar con múltiples tecnologías y lenguajes de programación.
 
-Mi flujo de trabajo diario se centra en **Visual Studio Code**, desde donde desarrollo scripts, administro servidores web y gestiono proyectos personales.
+Mi flujo de trabajo diario se centra en **Visual Studio Code (Remote-SSH)**, desde donde desarrollo scripts, administro servidores Debian y gestiono proyectos avanzados autohospedados.
 
 Además de la parte técnica, cuento con un **grupo y comunidad activa** donde nos reunimos para charlar, pasar el rato, debatir sobre tecnología y jugar a cualquier videojuego que surja en el momento.
 
 ---
 
-### 🌐 Infraestructura Propia & Ecosistema de Juegos
-Administro y mantengo mi propia infraestructura para dar soporte tanto a mis proyectos web como a la comunidad:
+### 🌐 Infraestructura Propia & Servidor "SlowMoPanda"
+Administro y mantengo mi propia infraestructura física basada en almacenamiento NVMe de alta velocidad y contenedores:
 
-* 🌐 **Despliegue Web & Servicios:** Configuración y alojamiento de sitios web, paneles de control internos y APIs personales.
-* 🎮 **Servidores de Juegos Dedicados:** Montaje, ajuste y optimización de servidores para la comunidad (Minecraft, Ark: Survival Evolved, Rust, Valheim, V-Rising, Euro Truck Simulator 2, entre otros).
-* 💬 **Comunidad & Monitoreo:** Gestión del servidor de Discord, integración de bots personalizados y supervisión en tiempo real del estado de los servicios.
+- 🚀 **Hardware & Almacenamiento:** Servidor Debian ("SlowMoPanda") optimizado con doble NVMe (sistema principal en partición dedicada y **`/mnt/datos`** de alta capacidad para Docker y bases de datos) más disco de respaldos en **`/mnt/backups`**.
+- 🌐 **Despliegue Web & Servicios:** Gestión centralizada de contenedores en Docker (Dozzle, Pi-hole, Nextcloud, MariaDB, Redis, Uptime Kuma, Crafty Controller).
+- 🐍 **Desarrollo de Comunidad:** Creación y despliegue de aplicaciones web personalizadas (Python, SQL y autenticación Discord OAuth2).
+- 💬 **Comunidad & Monitoreo:** Gestión del servidor de Discord, integración de bots personalizados y supervisión en tiempo real del estado de los servicios.
 
 ---
 
@@ -45,23 +46,24 @@ Utilizo diversos lenguajes y plataformas para desarrollar y administrar mi entor
 | Área | Lo que hago y exploro |
 | :--- | :--- |
 | **Programación & Scripting** | Desarrollo en múltiples lenguajes (JS/TS, Python, C++, PHP, Lua), automatización de tareas y desarrollo de bots. |
-| **Servidores & Web Hosting** | Despliegue de páginas web con Nginx, contenedores Docker, gestión de entornos Linux y configuración de entornos self-hosted. |
+| **Servidores & Web Hosting** | Despliegue de páginas web con Nginx, contenedores Docker en NVMe, gestión de entornos Linux y configuración de entornos self-hosted. |
 | **Game Server Hosting** | Configuración de servidores dedicados, gestión de archivos de configuración, mods y optimización de rendimiento para multijugador. |
-| **Bases de Datos & Redes** | Administración de bases de datos MySQL/MariaDB, gestión de permisos, VPNs y reglas básicas de red y seguridad. |
+| **Bases de Datos & Redes** | Administración de bases de datos MariaDB/MySQL, gestión de permisos, VPNs y reglas básicas de red y seguridad. |
 
 ---
 
 ### ⛓️ Terminal de Logs & Estado
 ```bash
 [SYSTEM_INFO]
-  User: SLOWMOPANDA1
-  Main_IDE: Visual Studio Code
+  Server_Name: SlowMoPanda (Debian)
+  Storage: NVMe High-Performance (/mnt/datos + /mnt/backups)
+  Main_IDE: Visual Studio Code (Remote-SSH)
   Profile: Software & SysAdmin Enthusiast
 
 [ACTIVE_PROJECTS]
-  > WEB_INFRASTRUCTURE: Web Hosting & Self-Hosted Services... [ONLINE]
-  > GAME_CLUSTERS: [Minecraft, Ark, Rust, Valheim, V-Rising, ETS2]... [RUNNING]
-  > COMMUNITY_HUB: Discord & Voice Server... [ACTIVE]
+  > DOCKER_INFRASTRUCTURE: Centralized on /mnt/datos/docker... [ONLINE]
+  > COMMUNITY_WEB: Python + SQL + Discord OAuth2... [IN DEVELOPMENT]
+  > SERVICES [Pi-hole, Nextcloud, MariaDB, Redis, Dozzle, Uptime Kuma, Crafty]... [RUNNING]
 
 [CURRENT_STATUS]
-  Goal: Continuar aprendiendo nuevos lenguajes, mejorando la infraestructura y jugando con amigos.
+  Goal: Continuar optimizando la infraestructura, desarrollando la web de la comunidad y jugando con amigos.
